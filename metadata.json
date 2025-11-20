@@ -1,0 +1,5 @@
+{
+  "name": "Booth to ClickPost Converter",
+  "description": "A utility to convert BOOTH.pm order CSV files into Japan Post Click Post compatible CSV format with Shift-JIS encoding.",
+  "requestFramePermissions": []
+}
